@@ -1,0 +1,10 @@
+{
+  "name": "HemoCare",
+  "short_name": "HemoCare",
+  "description": "Healthcare Management System",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#2563eb",
+  "icons": []
+}
